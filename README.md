@@ -45,6 +45,7 @@ pip install pandas
 |---------|----------|
 | data 1 1 | data 2 1
 |data 1 2 | data 22
+| data 1 3 | data 2 3
 
 - [ ] Task 1
 - [x] Task 2
